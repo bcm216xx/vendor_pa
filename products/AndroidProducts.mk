@@ -37,3 +37,7 @@
 # AOSP
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/angler/pa_angler.mk
+
+# YU
+    PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/tomato/pa_tomato.mk

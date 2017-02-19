@@ -22,3 +22,6 @@ add_lunch_combo pa_vs985-userdebug
 
 # AOSP
 add_lunch_combo pa_angler-userdebug
+
+# YU
+add_lunch_combo pa_tomato-userdebug
